@@ -12,7 +12,6 @@ def range100():
     global count 
     count = 0 
     num_range = 100
-    return secret_number 
 
 def range1000():   
     print ""
